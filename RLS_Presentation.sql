@@ -1,5 +1,4 @@
-USE [db_rls_demo_hospital]
-GO
+
 
 /****** Object:  Table [dbo].[patients]    Script Date: 2017-06-09 15:24:21 ******/
 SET ANSI_NULLS ON
